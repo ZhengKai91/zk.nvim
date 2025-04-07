@@ -1,6 +1,6 @@
 return {
   -- add gruvbox
-  { "shaunsingh/solarized.nvim" },
+  { "navarasu/onedark.nvim" },
 
   -- Configure LazyVim to load gruvbox
   {
