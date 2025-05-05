@@ -12,4 +12,5 @@ return {
   { import = "plugins.easyalign" },
   { import = "plugins.themes" },
   { import = "plugins.indent_blankline" },
+  { import = "plugins.copilot" },
 }
